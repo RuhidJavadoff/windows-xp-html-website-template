@@ -81,15 +81,18 @@ If you like this project and want to support its development, you can make a sma
 
 Donate via My Website:
 
-ruhidjavadoff.site/donate (Please replace this with the exact URL of your donate page if it's different)
+Visit Donate Page
+(Please replace https://ruhidjavadoff.site/donate with the exact URL of your donate page if it's different)
 
 Donate via PayPal:
 
-Email: ruhidjavadoff@gmail.com
+To: ruhidjavadoff@gmail.com
 
-Direct PayPal.Me Link: PayPal.Me/RuhidJavadoff (If you have a PayPal.Me username, replace "RuhidJavadoff" with it. Otherwise, you can use the more general link below)
+PayPal.Me/RuhidJavadoff
+(If you have a PayPal.Me username, replace "RuhidJavadoff" with it.)
 
-Alternative PayPal Link: Donate for Windows XP Demo Support (You can change the currency code (USD) as needed, e.g., EUR or AZN)
+Donate with PayPal (USD)
+(You can change the currency code (USD) as needed, e.g., EUR or AZN)
 
 Thank you for your support!
 
